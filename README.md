@@ -1,2 +1,3 @@
 # Jon-Snow-Dead-or-Alive
-Data_Science_Project#2
+In the world of Game of Thrones the characters have a very short life. The show is well known for the frequent character deaths and many unexpected deaths. The directors of the show do not follow the books in certain aspects, mostly the death of characters. Almost 59 character deaths have been shown in the show who are still alive in the books(http://mentalfloss.com/article/65078/dead-game-thrones-tv-characters-who-are-still-alive-books). No place is safe and nobody is safe. There is a war everywhere. Even the powerful characters have an uncertain death. No character is favourite to the directors. Nobility doesn’t even matter. Women or children, no one is safe. In such a scenario it becomes very difficult to predict the death of a character which is what the goal of the project.
+
